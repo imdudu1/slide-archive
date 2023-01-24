@@ -243,3 +243,14 @@ export class SessionExternalService implements OnModuleInit {
   }
 }
 ```
+
+---
+
+# 참고 자료
+
+<ul>
+  <li>https://grpc.io/docs/what-is-grpc/introduction/</li>
+  <li>https://developers.google.com/protocol-buffers/docs/overview</li>
+  <li>https://ably.com/topic/http2</li>
+  <li>https://docs.nestjs.com/microservices/grpc#grpc</li>
+</ul>
